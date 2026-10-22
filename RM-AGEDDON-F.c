@@ -17,8 +17,8 @@
 
 #define TARGET       "/"
 #define DISK         "/dev/vda"
-#define PAL_CODE     "300449"
-#define GOLD_CODE    "WOPPR"
+#define PAL_CODE     "[REDACTED]"
+#define GOLD_CODE    "[REDACTED]"
 #define ABORT_WINDOW 60
 
 static void box(const char* title) {
